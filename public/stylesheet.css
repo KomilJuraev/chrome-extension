@@ -1,0 +1,56 @@
+body {
+  min-width: 400px;
+}
+
+#btn-sec {
+  display: block;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin: 5px;
+}
+
+#input-sec{
+  display: block;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  margin: 5px;
+}
+
+ul {
+  margin-top: 10px;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-top: 10px;
+}
+
+#urlName {
+  color: blue;
+  font-size: 15px;
+  padding: 0px 5px 0px 5px;
+  margin: auto;
+  font-weight: bold;
+}
+
+a {
+  color: green;
+  font-weight: normal;
+  white-space:nowrap;
+}
+
+p {
+  color: red;
+  font-size: 15px;
+  display: block;
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
