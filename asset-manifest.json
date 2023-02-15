@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/chrome-extension/static/js/main.02d59347.js",
+    "index.html": "/chrome-extension/index.html",
+    "main.02d59347.js.map": "/chrome-extension/static/js/main.02d59347.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.02d59347.js"
+  ]
+}
